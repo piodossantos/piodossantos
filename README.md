@@ -6,7 +6,7 @@
 
 ---
 
-## 🌟 About Me
+### 🌟 About Me
 - 🚀 **Expertise:** Technical Leader, Microservices, Scalable Systems, Cloud Solutions
 - 🛠 **Technologies:** Java, Python, React, Kafka, Redis, AWS, Azure
 - 🤖 **Passion:** Leveraging AI and Big Data to solve real-world challenges
@@ -14,14 +14,14 @@
 
 ---
 
-## 📂 What You'll Find Here
+### 📂 What You'll Find Here
 - 🌐 Projects involving microservices and cloud architecture
 - 📊 Explorations in AI, Big Data, and Machine Learning
 - 🛠 Tools and utilities for developers
 
 ---
 
-## 🌐 Let's Connect
+### 🌐 Let's Connect
 🔗 [**LinkedIn**](https://www.linkedin.com/in/piodanilo/) ▸ [**X**](https://twitter.com/piodanilod) ▸ [**Instagram**](https://instagram.com/piodanilod)
 
 ---
