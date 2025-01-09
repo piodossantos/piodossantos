@@ -1,16 +1,29 @@
 ## Hi there 👋
 
-<!--
-**piodossantos/piodossantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 💻 Software Engineer & Technical Leader 👨‍💻
 
-Here are some ideas to get you started:
+👋 Hi! Welcome to my GitHub. I'm a passionate **Software Engineer**, building scalable and innovative solutions using cutting-edge technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌟 About Me
+- 🚀 **Expertise:** Technical Leader, Microservices, Scalable Systems, Cloud Solutions
+- 🛠 **Technologies:** Java, Python, React, Kafka, Redis, AWS, Azure
+- 🤖 **Passion:** Leveraging AI and Big Data to solve real-world challenges
+- 📈 **Role:** Leading teams and driving technical excellence in fintech
+
+---
+
+## 📂 What You'll Find Here
+- 🌐 Projects involving microservices and cloud architecture
+- 📊 Explorations in AI, Big Data, and Machine Learning
+- 🛠 Tools and utilities for developers
+
+---
+
+## 🌐 Let's Connect
+🔗 [**LinkedIn**](https://www.linkedin.com/in/piodanilo/) ▸ [**X**](https://twitter.com/piodanilod) ▸ [**Instagram**](https://instagram.com/piodanilod)
+
+---
+
+💡 *"Code is more than logic; it's the bridge to innovation."*
